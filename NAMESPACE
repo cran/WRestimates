@@ -1,0 +1,6 @@
+export(wr.ci)
+export(wr.power)
+export(wr.sigma.sqr)
+export(wr.ss)
+export(wr.var)
+importFrom("stats", "qnorm", "pnorm")

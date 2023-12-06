@@ -1,0 +1,15 @@
+a65082d7d3d0db7648ba831449caaad0 *DESCRIPTION
+2a2bf2bd33a50d1a31b78e256f66cc33 *LICENSE
+b9a769d37d50db2f9710d622cb367610 *NAMESPACE
+10b7eebaf34f0620d2d22a5575a7d358 *R/sample_size.R
+aef275634ffc6af314ba5a70e2ce1ffb *build/vignette.rds
+27523d3c820f2e1401ea6788a7edfbf1 *inst/WORDLIST
+216dbd4372d64ff776525162fd3c4a72 *inst/doc/Intro_to_WRestimates.R
+c1f61e1424bf8ea0f1d0877415e0a635 *inst/doc/Intro_to_WRestimates.Rmd
+6016c8f96f4be14f62b223fcc76abab4 *inst/doc/Intro_to_WRestimates.html
+d6c7bb047b4efc2271b45e054a9bd39b *man/wr.ci.Rd
+e70ae912fc3490065339971d0ee9a107 *man/wr.power.Rd
+7ea68c7d6e2b653ce2200f10985334f6 *man/wr.sigma.sqr.Rd
+ea6fb07ea8f3acb38b28f291847ee434 *man/wr.ss.Rd
+852c58358d4fe687082f053057c5c240 *man/wr.var.Rd
+c1f61e1424bf8ea0f1d0877415e0a635 *vignettes/Intro_to_WRestimates.Rmd
